@@ -1,6 +1,6 @@
+![image](https://user-images.githubusercontent.com/70981253/194962387-c41be99c-6a09-48e1-9735-2ade441dcf74.png)
 
-![logo_size_invert](https://user-images.githubusercontent.com/70981253/194962242-d6c9e745-1beb-4c61-88a8-7ca43e19f1ee.jpg)
-
+ 
 
 ### Hi, my name is karen valencia, i am from de colombia👋 
 welcome to my repository page, you can find several programming languages.
