@@ -8,7 +8,6 @@ welcome to my repository page, you can find several programming languages.
 
 
 
-<img align="left" height="150" src="https://github.com/M0nica/M0nica/raw/main/octomonica/m0nica-octocat-rotating.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <!--
 **karenvalencia-bit/karenvalencia-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
